@@ -1,2 +1,2 @@
 # data-analysis-portfolio
-This Repo contains 
+This repo contains my data analysis projects that showcase my fluent use of Tidyverse.
